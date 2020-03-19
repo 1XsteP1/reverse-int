@@ -4,5 +4,5 @@ module.exports = function reverse (n) {
   }
     
   let number = n.toString().toSplit('').reverse().join('');
-  retutn number
+  return number
 }
